@@ -1,0 +1,10 @@
+<script type="text/javascript">
+(function(a, b){
+	a.adnCoverParam = {'coverId' : '201424', 'device' : 'pc', 'purl' : ''};
+	var e = b.createElement("script");
+	e.type = "text/javascript";
+	e.defer = true;
+	e.src = '//adf.acrosspf.com/js/adx_ic_1.0.0.js';
+	b.getElementsByTagName("head")[0].appendChild(e);
+})(window, document)
+</script>
